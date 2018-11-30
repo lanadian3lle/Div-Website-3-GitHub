@@ -1,0 +1,28 @@
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.header {
+    background-color: #3ab3d8;
+    height: 50px;
+}
+
+.leftcolumn {
+    width:20%;
+    float: left;
+    background-color: darkkhaki      
+}
+
+.rightcolumn {
+    width:80%;
+    float:left;
+    background-color: darksalmon 
+}
+
+.footer { 
+    background-color: darkolivegreen;
+    float: left;
+    width: 100%;
+}
